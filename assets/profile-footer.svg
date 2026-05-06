@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Footer accent">
+  <title>Footer accent</title>
+  <defs>
+    <linearGradient id="mjFooterGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#6d28d9"/>
+      <stop offset="100%" stop-color="#c2410c"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#mjFooterGrad)" d="M0,22 C200,2 400,42 600,22 C800,2 1000,42 1200,22 L1200,72 L0,72 Z"/>
+</svg>

@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="mjBannerTitle">
+  <title id="mjBannerTitle">Mahima Jyoti</title>
+  <desc>Profile header  B.Tech AI/ML, full-stack and data systems</desc>
+  <defs>
+    <linearGradient id="mjBannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0764"/>
+      <stop offset="38%" stop-color="#5b21b6"/>
+      <stop offset="72%" stop-color="#7c2d12"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" fill="url(#mjBannerGrad)"/>
+  <path d="M0,178 C220,208 420,158 620,178 C820,198 1020,158 1200,178 L1200,230 L0,230 Z" fill="#0f172a" fill-opacity="0.42"/>
+  <text x="600" y="98" text-anchor="middle" fill="#fef3c7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700">Mahima Jyoti</text>
+  <text x="600" y="146" text-anchor="middle" fill="#fde68a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600">B.Tech AI/ML  Full-Stack &amp; Data Systems</text>
+</svg>
