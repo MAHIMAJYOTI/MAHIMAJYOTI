@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,28&height=230&section=header&text=Mahima%20Jyoti&fontSize=48&fontColor=fef3c7&animation=fadeIn&fontAlignY=30&desc=B.Tech%20AI%2FML%20%E2%80%94%20Full-Stack%20%26%20Data%20Systems&descAlignY=56&descSize=17&stroke=6b21a8&strokeWidth=2" alt="Mahima Jyoti — header banner" width="100%" />
+  <!-- GitHub strips inline SVG in READMEs; banner lives in assets/ as real SVG source. -->
+  <img src="assets/profile-banner.svg" alt="Mahima Jyoti — B.Tech AI/ML, full-stack &amp; data systems" width="100%" />
 </div>
 
 <div align="center">
@@ -293,5 +294,5 @@ May 2019 ──●── Indian Heritage School — ICSE — 95.6%
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,28&height=110&section=footer&stroke=6b21a8&strokeWidth=2" alt="Footer wave" width="100%" />
+  <img src="assets/profile-footer.svg" alt="" width="100%" role="presentation" />
 </div>
