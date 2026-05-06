@@ -1,298 +1,361 @@
 <div align="center">
-  <!-- GitHub strips inline SVG in READMEs; banner lives in assets/ as real SVG source. -->
-  <img src="assets/profile-banner.svg" alt="Mahima Jyoti — B.Tech AI/ML, full-stack &amp; data systems" width="100%" />
+
+<!-- Header -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,12,14,20&height=220&section=header&text=Mahima%20Jyoti&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Systems&descAlignY=58&descSize=17&descColor=8B949E" alt="Mahima Jyoti — header" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FBBF24&center=true&vCenter=true&width=720&lines=Building+AI+systems+that+ship;ETL+%E2%86%92+models+%E2%86%92+APIs+%E2%86%92+dashboards+%E2%86%92+production;VIT+Bhopal+%7C+CGPA+9.22+%2F+10;Open+to+SDE+%2F+MLE+internships+%E2%80%94+let%27s+talk" alt="Animated tagline" />
+
+<br/><br/>
+
+<!-- Social badges -->
+<a href="https://github.com/MAHIMAJYOTI">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/mahima-jyoti">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/Shiva_jyoti/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="mailto:mahima.23bai0470@vitbhopal.ac.in">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=MAHIMAJYOTI&color=7c3aed&style=for-the-badge&label=Profile+views" alt="Profile views" />
+
+<br/><br/>
+
+<!-- Stat pills -->
+<img src="https://img.shields.io/badge/CGPA-9.22%20%2F%2010-7c3aed?style=flat-square&labelColor=1a1a2e" alt="CGPA 9.22 / 10" />
+&nbsp;
+<img src="https://img.shields.io/badge/Records%20processed-4.8M-fbbf24?style=flat-square&labelColor=1a1a2e" alt="4.8M records processed" />
+&nbsp;
+<img src="https://img.shields.io/badge/Year-3rd%20year%20B.Tech-58a6ff?style=flat-square&labelColor=1a1a2e" alt="Third year B.Tech" />
+&nbsp;
+<img src="https://img.shields.io/badge/Seeking-SDE%20%2F%20MLE%20internship-3fb950?style=flat-square&labelColor=1a1a2e" alt="Seeking SDE or MLE internship" />
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=FBBF24&center=true&vCenter=true&width=560&lines=AI%2FML+%2B+Full-Stack+%E2%80%94+shipping+end-to-end+systems;ETL+%E2%86%92+models+%E2%86%92+dashboards+%E2%86%92+production;VIT+Bhopal+%7C+CGPA+9.22%2F10;Open+to+SDE+%2F+MLE+internships" alt="Animated tagline" />
-</div>
-
-<div align="center">
-  <p>
-    <b>AI/ML Engineer</b> · <b>Full-Stack Developer</b> · <b>Data Analytics</b>
-  </p>
-  <p>
-    <a href="https://github.com/MAHIMAJYOTI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fef3c7" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/mahima-jyoti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/Shiva_jyoti/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="mailto:mahima.23bai0470@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="tel:+918627839379"><img src="https://img.shields.io/badge/Phone-%2B91%208627839379-7c3aed?style=for-the-badge&logoColor=fef3c7" alt="Phone" /></a>
-  </p>
-</div>
-
-<br />
+<br/>
 
 ---
 
-## 👋 About
+## About
 
-Third-year **B.Tech Computer Science (Artificial Intelligence & Machine Learning)** at **VIT Bhopal** — **CGPA 9.22 / 10** (Aug 2023 — Present). Strong grounding in **programming**, **data structures**, and **data analysis**; comfortable owning problems from **raw data → models → APIs → interfaces**.
+Third-year **B.Tech Computer Science (AI & ML)** at **VIT Bhopal** — CGPA **9.22 / 10** · Aug 2023 – Present.
 
-Builds **backend-heavy** and **analytics-first** systems: ETL orchestration, interpretable ML, real-time collaboration stacks, and deployment-minded architecture (**AWS**, **Supabase**, **Docker** fundamentals). Interested in **SDE** and **MLE** roles where rigor, clarity, and shipping matter.
+Comfortable owning problems end-to-end: raw data → ETL orchestration → model training → deployed APIs → responsive frontends. Builds **backend-heavy, analytics-first systems** — interpretable ML, real-time collaboration stacks, and deployment-minded architecture. Not just notebooks; actual pipelines that run unattended.
 
-<br />
+Interested in **SDE** and **MLE** roles where rigor, clean architecture, and shipping things that work matter.
+
+<br/>
 
 ---
 
-## 🛠️ Technical skills
+## Tech stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Web & backend**
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://en.wikipedia.org/wiki/REST)
-[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-
-**Data analytics & ML**
-
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Data analysis](https://img.shields.io/badge/Data%20analysis-7c3aed?style=for-the-badge&logoColor=white)](#)
-[![Statistics](https://img.shields.io/badge/Basic%20statistics-5b21b6?style=for-the-badge&logoColor=white)](#)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Databases**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**AI / ML / data**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-4CAF50?style=flat-square&logoColor=white)
+![XAI](https://img.shields.io/badge/Explainable%20AI-7c3aed?style=flat-square&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-5b21b6?style=flat-square&logoColor=white)
 
 **Cloud & DevOps**
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
-[![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
-[![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/cloudfront/)
-[![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/elasticbeanstalk/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Docker](https://img.shields.io/badge/Docker%20%28basic%29-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Core concepts**
 
-[![DSA](https://img.shields.io/badge/Data%20structures%20%26%20algorithms-fbbf24?style=for-the-badge&logo=leetcode&logoColor=black)](https://en.wikipedia.org/wiki/Data_structure)
-[![OOP](https://img.shields.io/badge/Object--oriented%20programming-312e81?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-[![DBMS](https://img.shields.io/badge/DBMS-4c1d95?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/Database)
-[![Distributed systems](https://img.shields.io/badge/Distributed%20systems-5b21b6?style=for-the-badge&logo=apachekafka&logoColor=white)](https://en.wikipedia.org/wiki/Distributed_computing)
-[![SDLC](https://img.shields.io/badge/Software%20development%20lifecycle-6d28d9?style=for-the-badge&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
+![DSA](https://img.shields.io/badge/Data%20structures%20%26%20algorithms-fbbf24?style=flat-square&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-312e81?style=flat-square&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4c1d95?style=flat-square&logoColor=white)
+![Distributed systems](https://img.shields.io/badge/Distributed%20systems-5b21b6?style=flat-square&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-6d28d9?style=flat-square&logoColor=white)
 
-**Tools**
+</td>
+</tr>
+</table>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-
-<br />
+<br/>
 
 ---
 
-## 📊 GitHub overview
+## GitHub overview
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MAHIMAJYOTI&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHIMAJYOTI&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIMAJYOTI&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
-      </td>
-    </tr>
-  </table>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MAHIMAJYOTI&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&rank_icon=github" alt="GitHub stats" />
+  &nbsp;
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIMAJYOTI&theme=midnight-purple&hide_border=true" alt="GitHub streak stats" />
 </div>
 
-<br />
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHIMAJYOTI&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&border_radius=10" alt="Top languages" />
+</div>
+
+<br/>
 
 ---
 
-## 🐍 Contribution graph
+## Contribution graph
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAHIMAJYOTI/MAHIMAJYOTI/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MAHIMAJYOTI/MAHIMAJYOTI/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAHIMAJYOTI/MAHIMAJYOTI/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution activity" src="https://raw.githubusercontent.com/MAHIMAJYOTI/MAHIMAJYOTI/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 <details>
-<summary><strong>Snake animation — GitHub Actions setup</strong></summary>
+<summary><strong>Enable the contribution animation (GitHub Actions)</strong></summary>
+<br/>
 
-1. Use the special profile repository **`MAHIMAJYOTI/MAHIMAJYOTI`** (public).
-2. Add `.github/workflows/snake.yml` (see this repo’s workflow file).
-3. **Settings → Actions → General → Workflow permissions:** **Read and write**.
-4. Run **Actions → Generate Snake Animation → Run workflow** once, or wait for the daily cron.
-5. SVGs are published on the **`output`** branch; this README references `github-contribution-grid-snake-dark.svg`.
+1. This must be your **special profile repo** — named exactly `MAHIMAJYOTI/MAHIMAJYOTI`.
+2. Add `.github/workflows/snake.yml` (file below).
+3. Go to **Settings → Actions → General → Workflow permissions** → set to **Read and write**.
+4. Run **Actions → Generate Snake Animation → Run workflow** once to generate the SVGs.
+5. SVGs will appear on the `output` branch. The `<picture>` block above picks light or dark SVG when available.
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 </details>
 
-<br />
+<br/>
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
-### **UIDAI Service Stress Zone Analysis** — *Data-driven process optimization*
+<br/>
 
-*Predictive analytics on ~**4.8M** government transactional records to surface geographic infrastructure stress across **1,000+** districts.*
+<!-- Project 1 -->
 
-<p align="center">
-  <a href="https://github.com/MAHIMAJYOTI/adhaarzones"><b>GitHub</b></a>
-  &nbsp;·&nbsp;
-  <a href="#"><b>Live demo</b></a> <sub><i>(add deploy URL)</i></sub>
-</p>
+<table>
+<tr>
+<td>
 
-- End-to-end **predictive analytics pipeline** on ~**4.8 million** records to **mathematically** pinpoint infrastructure bottlenecks across **1,000+** districts.
-- **Service Stress Ratio** — custom metric with **additive smoothing** to normalize operational capacity; primary target for downstream modeling.
-- **Random Forest** classifier (**80/20** split) for interpretable risk categories; **feature importance** shows the engineered ratio drives **~70%** of predictive power.
-- **Z-score** thresholds for dynamic district risk tiers — removes arbitrary manual cutoffs and stays aligned with shifting national baselines.
-- Fully automated **ETL orchestrator** (`run_pipeline.py`): imputation, granularity aggregation, temporal trend analysis, and **`.joblib`** serialization — **zero** human-in-the-loop.
+### `adhaarzones` — UIDAI stress zone (data-driven optimization)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+> **Predictive analytics on ~4.8M government records · Infrastructure risk classification across 1,000+ districts**
 
-<div align="center">
-  <a href="https://github.com/MAHIMAJYOTI/adhaarzones">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHIMAJYOTI&repo=adhaarzones&theme=midnight-purple&hide_border=true&show_owner=true" alt="adhaarzones repository card" />
-  </a>
-</div>
+<a href="https://github.com/MAHIMAJYOTI/adhaarzones"><img src="https://img.shields.io/badge/GitHub-repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-demo-coming%20soon-3fb950?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
 
-<br />
+Pipeline: raw CSV (4.8M rows) → imputation → aggregation → feature engineering → RF classifier → `.joblib`
 
-### **ROADGAURD-X** — *Explainable AI driving risk analyzer*
+- **ETL orchestrator** (`run_pipeline.py`) — imputation, granularity aggregation, temporal trend analysis, model serialization — **zero human-in-the-loop**
+- **Service stress ratio** — custom metric with **additive smoothing** to normalize operational capacity; core target variable for downstream modeling
+- **Random Forest classifier** (80/20 split) — feature importance showed the engineered ratio drove **~70% of predictive power**
+- **Z-score thresholds** for dynamic district risk tiers — removes arbitrary manual cutoffs; adapts to shifting national baselines
 
-*Offline-first **OpenCV** + **Random Forest** stack for real-time scene risk — no mandatory cloud dependency.*
-
-<p align="center">
-  <a href="https://github.com/MAHIMAJYOTI/ROADGAURD-X"><b>GitHub</b></a>
-  &nbsp;·&nbsp;
-  <a href="#"><b>Live demo</b></a> <sub><i>(add deploy URL)</i></sub>
-</p>
-
-- **Offline-first** video pipeline: classical CV (**OpenCV**) + **Random Forest** for real-time driving-scene risk without external cloud reliance.
-- **Next.js** + **TailwindCSS** dashboard wired to an **async FastAPI** backend: drag-and-drop uploads, live status polling, playback of **annotated** output clips.
-- **Telemetry & reporting**: session metrics (e.g. lane-drift events, risk trends) → structured **JSON** + **matplotlib** timeline charts.
-- **Explainable layer**: tracks local feature contributions and emits **human-readable** explanations (e.g. *“sustained lane departure”*) at critical prediction moments.
-- Deterministic **9-D** feature space (lane offsets, motion variance, edge density, etc.) for an interpretable risk classifier.
-- **Synthetic data suite**: **5,000+** balanced samples, class-mix variations, **Gaussian noise** — stress-tests precision / recall.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/MAHIMAJYOTI/ROADGAURD-X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHIMAJYOTI&repo=ROADGAURD-X&theme=midnight-purple&hide_border=true&show_owner=true" alt="ROADGAURD-X repository card" />
-  </a>
+  <p><a href="https://github.com/MAHIMAJYOTI/adhaarzones"><strong>MAHIMAJYOTI / adhaarzones</strong></a></p>
+  <p>
+    <a href="https://github.com/MAHIMAJYOTI/adhaarzones"><img src="https://img.shields.io/github/stars/MAHIMAJYOTI/adhaarzones?style=flat-square&logo=github&label=Stars&color=7c3aed" alt="adhaarzones GitHub stars" /></a>
+    <a href="https://github.com/MAHIMAJYOTI/adhaarzones"><img src="https://img.shields.io/github/languages/top/MAHIMAJYOTI/adhaarzones?style=flat-square&label=Top%20language" alt="adhaarzones top language" /></a>
+  </p>
 </div>
 
-<br />
+<br/>
 
-### **CloudCollab** — *Cloud-native real-time collaborative coding* (`awscollab`)
+<!-- Project 2 -->
 
-*Full-stack workspace: **live code runs**, chat, and **WebRTC** video — synchronized editing over **Socket.IO**.*
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <a href="https://github.com/MAHIMAJYOTI/awscollab"><b>GitHub</b></a>
-  &nbsp;·&nbsp;
-  <a href="#"><b>Live demo</b></a> <sub><i>(add deploy URL)</i></sub>
-</p>
+### `ROADGAURD-X` — explainable driving risk analyzer
 
-- **JDoodle** API for **live code execution**; **WebRTC** for peer video; instant messaging in-product.
-- **Socket.IO**-backed editor: multi-user sync, **cursor** positions, **typing** indicators, low-latency broadcast.
-- **AWS Elastic Beanstalk** for the Node environment; **DynamoDB** for low-latency NoSQL storage.
-- **JWT** authentication + **Supabase** row-level security.
+Repository name on GitHub: **ROADGAURD-X** (spelled as on GitHub).
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
-[![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)](https://webrtc.org/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+> **Offline-first OpenCV + Random Forest pipeline · Real-time driving scene risk · No cloud dependency**
+
+<a href="https://github.com/MAHIMAJYOTI/ROADGAURD-X"><img src="https://img.shields.io/badge/GitHub-repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-demo-coming%20soon-3fb950?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Stack: OpenCV (CV) + RF (risk) → FastAPI (async backend) → Next.js dashboard → annotated video output
+
+- **Offline-first** video pipeline — classical CV (OpenCV) + Random Forest; no external cloud reliance required
+- **9-dimensional deterministic feature space** (lane offsets, motion variance, edge density, temporal/spatial cues) for interpretable risk classification
+- **Explainable AI layer** — monitors local feature contributions; human-readable explanations (e.g. *sustained lane departure*) at critical prediction moments
+- **Next.js + TailwindCSS** dashboard with async **FastAPI** backend — drag-and-drop uploads, live status polling, annotated clip playback
+- **Synthetic data suite** — 5,000+ balanced samples, class-mix variations, Gaussian noise for stress-testing precision/recall
+- **Telemetry** — session data (lane-drift events, risk trends) → structured JSON + matplotlib timeline charts
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/MAHIMAJYOTI/awscollab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHIMAJYOTI&repo=awscollab&theme=midnight-purple&hide_border=true&show_owner=true" alt="awscollab repository card" />
-  </a>
+  <p><a href="https://github.com/MAHIMAJYOTI/ROADGAURD-X"><strong>MAHIMAJYOTI / ROADGAURD-X</strong></a></p>
+  <p>
+    <a href="https://github.com/MAHIMAJYOTI/ROADGAURD-X"><img src="https://img.shields.io/github/stars/MAHIMAJYOTI/ROADGAURD-X?style=flat-square&logo=github&label=Stars&color=7c3aed" alt="ROADGAURD-X GitHub stars" /></a>
+    <a href="https://github.com/MAHIMAJYOTI/ROADGAURD-X"><img src="https://img.shields.io/github/languages/top/MAHIMAJYOTI/ROADGAURD-X?style=flat-square&label=Top%20language" alt="ROADGAURD-X top language" /></a>
+  </p>
 </div>
 
-<br />
+<br/>
+
+<!-- Project 3 -->
+
+<table>
+<tr>
+<td>
+
+### `awscollab` — CloudCollab (real-time collaborative workspace)
+
+> **Full-stack workspace · Live code execution · WebRTC video · Socket.IO sync · AWS-hosted**
+
+<a href="https://github.com/MAHIMAJYOTI/awscollab"><img src="https://img.shields.io/badge/GitHub-repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-demo-coming%20soon-3fb950?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+Architecture: Socket.IO (sync) + WebRTC (video) + JDoodle API (exec) → AWS Elastic Beanstalk + DynamoDB
+
+- **Real-time synchronized editor** — multi-user cursor positions and typing indicators via **Socket.IO**, low-latency broadcast
+- **Live code execution** via JDoodle API + **peer-to-peer video** via WebRTC + in-product messaging
+- **AWS Elastic Beanstalk** for the Node environment + **DynamoDB** for low-latency NoSQL storage
+- **JWT authentication** + **Supabase** row-level security
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <p><a href="https://github.com/MAHIMAJYOTI/awscollab"><strong>MAHIMAJYOTI / awscollab</strong></a></p>
+  <p>
+    <a href="https://github.com/MAHIMAJYOTI/awscollab"><img src="https://img.shields.io/github/stars/MAHIMAJYOTI/awscollab?style=flat-square&logo=github&label=Stars&color=7c3aed" alt="awscollab GitHub stars" /></a>
+    <a href="https://github.com/MAHIMAJYOTI/awscollab"><img src="https://img.shields.io/github/languages/top/MAHIMAJYOTI/awscollab?style=flat-square&label=Top%20language" alt="awscollab top language" /></a>
+  </p>
+</div>
+
+<br/>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-| Certificate | Issuer |
-|-------------|--------|
-| Google IT Support Professional Certificate | Google |
-| MERN Full Stack Developer | Ethnus |
-| Azure Data Fundamentals | Microsoft |
+| Certificate | Issuer | Badge |
+| --- | --- | --- |
+| Google IT Support Professional Certificate | Google | [![Google](https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-it-support) |
+| MERN Full Stack Developer | Ethnus | [![MERN](https://img.shields.io/badge/MERN%20Full%20Stack-61DAFB?style=flat-square&logo=react&logoColor=black)](#) |
+| Azure Data Fundamentals | Microsoft | [![AZ-900](https://img.shields.io/badge/Microsoft%20AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) |
 
-<p align="center">
-  <a href="https://www.coursera.org/professional-certificates/google-it-support"><img src="https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MERN%20Full%20Stack-Ethnus-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="MERN Ethnus" /></a>
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Fundamentals AZ-900" /></a>
-</p>
-
-<br />
+<br/>
 
 ---
 
-## 🎓 Education
+## Education
 
-| Institution | Qualification | Period | Result |
-|-------------|---------------|--------|--------|
-| **VIT Bhopal University** | B.Tech Computer Science — specialization in **AI & Machine Learning** | Aug 2023 — Present | **CGPA 9.22** / 10 |
-| **Pratap World School**, Indora, H.P. | CBSE | May 2020 — Jun 2022 | **94.6%** |
-| **Indian Heritage School**, Pathankot, Punjab | ICSE | May 2019 — Apr 2020 | **95.6%** |
+| Institution | Program | Period | Result |
+| --- | --- | --- | --- |
+| VIT Bhopal University | B.Tech Computer Science — AI & Machine Learning | Aug 2023 – Present | CGPA **9.22 / 10** |
+| Pratap World School, Indora, H.P. | CBSE Class XII | May 2020 – Jun 2022 | **94.6%** |
+| Indian Heritage School, Pathankot, Punjab | ICSE Class X | May 2019 – Apr 2020 | **95.6%** |
 
-```
-Aug 2023 ──●── VIT Bhopal — B.Tech CSE (AI/ML) — CGPA 9.22 — Present
-              │
-May 2020 ──●── Pratap World School — CBSE — 94.6%
-              │
-May 2019 ──●── Indian Heritage School — ICSE — 95.6%
-```
-
-<br />
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAHIMAJYOTI&color=7c3aed&style=for-the-badge&label=Profile%20views" alt="Profile views" />
-  <br /><br />
-  <a href="https://github.com/MAHIMAJYOTI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/mahima-jyoti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Shiva_jyoti/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:mahima.23bai0470@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,14,12,11&height=100&section=footer&reversal=false" alt="Footer wave" width="100%" />
 
-<div align="center">
-  <img src="assets/profile-footer.svg" alt="" width="100%" role="presentation" />
+<sub>
+  <code>mahima.23bai0470@vitbhopal.ac.in</code> · <code>+91 8627839379</code> · VIT Bhopal · 2023–2027
+</sub>
+
 </div>
