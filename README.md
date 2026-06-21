@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FBBF24&center=true&vCenter=true&width=720&lines=Building+AI+systems+that+ship;ETL+%E2%86%92+models+%E2%86%92+APIs+%E2%86%92+dashboards+%E2%86%92+production;VIT+Bhopal+%7C+CGPA+9.22+%2F+10;Open+to+SDE+%2F+MLE+internships+%E2%80%94+let%27s+talk" alt="Animated tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FBBF24&center=true&vCenter=true&width=720&lines=Building+AI+systems+that+ship;ETL+%E2%86%92+models+%E2%86%92+APIs+%E2%86%92+dashboards+%E2%86%92+production;VIT+Bhopal+%7C+CGPA+9.18+%2F+10;150%2B+LeetCode+%7C+Open+to+SDE+%2F+MLE+roles" alt="Animated tagline" />
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/mahima-jyoti">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://leetcode.com/u/Shiva_jyoti/">
+<a href="https://leetcode.com/u/Mahima4/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="mailto:mahima.23bai0470@vitbhopal.ac.in">
@@ -28,13 +28,15 @@
 <br/><br/>
 
 <!-- Stat pills -->
-<img src="https://img.shields.io/badge/CGPA-9.22%20%2F%2010-7c3aed?style=flat-square&labelColor=1a1a2e" alt="CGPA 9.22 / 10" />
+<img src="https://img.shields.io/badge/CGPA-9.18%20%2F%2010-7c3aed?style=flat-square&labelColor=1a1a2e" alt="CGPA 9.18 / 10" />
 &nbsp;
 <img src="https://img.shields.io/badge/Records%20processed-4.8M-fbbf24?style=flat-square&labelColor=1a1a2e" alt="4.8M records processed" />
 &nbsp;
-<img src="https://img.shields.io/badge/Year-3rd%20year%20B.Tech-58a6ff?style=flat-square&labelColor=1a1a2e" alt="Third year B.Tech" />
+<img src="https://img.shields.io/badge/LeetCode-150%2B%20problems-FFA116?style=flat-square&labelColor=1a1a2e" alt="150+ LeetCode problems" />
 &nbsp;
-<img src="https://img.shields.io/badge/Seeking-SDE%20%2F%20MLE%20internship-3fb950?style=flat-square&labelColor=1a1a2e" alt="Seeking SDE or MLE internship" />
+<img src="https://img.shields.io/badge/Year-Final%20year%20B.Tech-58a6ff?style=flat-square&labelColor=1a1a2e" alt="Final year B.Tech" />
+&nbsp;
+<img src="https://img.shields.io/badge/Seeking-SDE%20%2F%20MLE%20roles-3fb950?style=flat-square&labelColor=1a1a2e" alt="Seeking SDE or MLE roles" />
 
 </div>
 
@@ -44,7 +46,7 @@
 
 ## About
 
-Third-year **B.Tech Computer Science (AI & ML)** at **VIT Bhopal** — CGPA **9.22 / 10** · Aug 2023 – Present.
+Final-year **B.Tech Computer Science (AI & ML)** at **VIT Bhopal** — CGPA **9.18 / 10** · Aug 2023 – Present · **150+ LeetCode** problems solved.
 
 Comfortable owning problems end-to-end: raw data → ETL orchestration → model training → deployed APIs → responsive frontends. Builds **backend-heavy, analytics-first systems** — interpretable ML, real-time collaboration stacks, and deployment-minded architecture. Not just notebooks; actual pipelines that run unattended.
 
@@ -204,12 +206,52 @@ jobs:
 <tr>
 <td>
 
+### `GameNexus` — social gaming backlog platform
+
+> **Production full-stack · Game discovery · Backlog · Social graph · Real-time chat**
+
+<a href="https://github.com/MAHIMAJYOTI/GameNexus-full"><img src="https://img.shields.io/badge/GitHub-repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
+<a href="https://game-nexus-full.vercel.app/"><img src="https://img.shields.io/badge/Live-demo-Vercel-3fb950?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+Stack: Next.js + FastAPI + PostgreSQL → Vercel + Railway · JWT auth · FreeToGame API integration
+
+- **Relational schema + REST APIs** for users, game catalog, backlog, follow graph, activity feed, and chat (SQLAlchemy async)
+- **JWT authentication** — Supabase Auth on client, JWKS/HS256 validation on FastAPI
+- **Social features** — follow/unfollow, public profiles, friend activity feed, genre-based recommendations
+- **Real-time per-game chat** over WebSockets with persistent message history
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <p><a href="https://github.com/MAHIMAJYOTI/GameNexus-full"><strong>MAHIMAJYOTI / GameNexus-full</strong></a></p>
+  <p>
+    <a href="https://github.com/MAHIMAJYOTI/GameNexus-full"><img src="https://img.shields.io/github/stars/MAHIMAJYOTI/GameNexus-full?style=flat-square&logo=github&label=Stars&color=7c3aed" alt="GameNexus GitHub stars" /></a>
+    <a href="https://github.com/MAHIMAJYOTI/GameNexus-full"><img src="https://img.shields.io/github/languages/top/MAHIMAJYOTI/GameNexus-full?style=flat-square&label=Top%20language" alt="GameNexus top language" /></a>
+  </p>
+</div>
+
+<br/>
+
+<!-- Project 2 -->
+
+<table>
+<tr>
+<td>
+
 ### `adhaarzones` — UIDAI stress zone (data-driven optimization)
 
 > **Predictive analytics on ~4.8M government records · Infrastructure risk classification across 1,000+ districts**
 
 <a href="https://github.com/MAHIMAJYOTI/adhaarzones"><img src="https://img.shields.io/badge/GitHub-repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-demo-coming%20soon-3fb950?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://uidai-data-hackathon-2026.vercel.app/"><img src="https://img.shields.io/badge/Live-demo-Vercel-3fb950?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -238,7 +280,7 @@ Pipeline: raw CSV (4.8M rows) → imputation → aggregation → feature enginee
 
 <br/>
 
-<!-- Project 2 -->
+<!-- Project 3 -->
 
 <table>
 <tr>
@@ -251,7 +293,7 @@ Repository name on GitHub: **ROADGAURD-X** (spelled as on GitHub).
 > **Offline-first OpenCV + Random Forest pipeline · Real-time driving scene risk · No cloud dependency**
 
 <a href="https://github.com/MAHIMAJYOTI/ROADGAURD-X"><img src="https://img.shields.io/badge/GitHub-repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-demo-coming%20soon-3fb950?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://roadgaurd-x.vercel.app/"><img src="https://img.shields.io/badge/Live-demo-Vercel-3fb950?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -283,7 +325,7 @@ Stack: OpenCV (CV) + RF (risk) → FastAPI (async backend) → Next.js dashboard
 
 <br/>
 
-<!-- Project 3 -->
+<!-- Project 4 -->
 
 <table>
 <tr>
@@ -342,9 +384,9 @@ Architecture: Socket.IO (sync) + WebRTC (video) + JDoodle API (exec) → AWS Ela
 
 | Institution | Program | Period | Result |
 | --- | --- | --- | --- |
-| VIT Bhopal University | B.Tech Computer Science — AI & Machine Learning | Aug 2023 – Present | CGPA **9.22 / 10** |
+| VIT Bhopal University | B.Tech Computer Science — AI & Machine Learning | Aug 2023 – Present | CGPA **9.18 / 10** |
 | Pratap World School, Indora, H.P. | CBSE Class XII | May 2020 – Jun 2022 | **94.6%** |
-| Indian Heritage School, Pathankot, Punjab | ICSE Class X | May 2019 – Apr 2020 | **95.6%** |
+| Indian Heritage School, Pathankot, Punjab | ICSE Class X | May 2019 – Apr 2020 | **95.4%** |
 
 <br/>
 
